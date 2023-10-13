@@ -54,19 +54,19 @@
 
 - **Description:** Eng-bot is a Telegram bot that makes learning English easier. It allows you to take and create new tests, as well as add articles created with Telegraph.
 - **Role:** Developer
-- **Technologies:** Python, pyTelegramBotAPI, PostgreSQL.
+- **Technologies:** Python, pyTelegramBotAPI, PostgreSQL
 
 ### Project 3: [Buyout-Checker](https://github.com/TriNitki/Buyout-Checker)
 
 - **Description:** Buyout Checker is a web-app for finding the cheapest item for a full buyout from the Hypixel Skyblock bazzar. This feature is used to securely transfer in-game currency between accounts.
 - **Role:** Fullstack Developer
-- **Technologies:** Python, Django, sqlite, javascript, html, css.
+- **Technologies:** Python, Django, sqlite, javascript, html, css
 
 ### Project 4: [plankton](https://github.com/TriNitki/plankton)
 
 - **Description:** Plankton is a backend for the task scheduler. This project was created in the process of going through the [CFT](https://team.cft.ru/start/intensive) Intensive.
 - **Role:** Backend Developer
-- **Technologies:** Java, Spring Boot, Apache Cassandra, Gradle, Docker.
+- **Technologies:** Java, Spring Boot, Apache Cassandra, Gradle, Docker
 
 You can check out other projects in my Github repositories. Here I tried to highlight interesting and different projects.
 
