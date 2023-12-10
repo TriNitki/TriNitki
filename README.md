@@ -1,6 +1,6 @@
 # Hi, I'm Danil 👋
 
-🚀 As a second-year student at TUSUR University, I am passionate about backend development and have been sharpening my skills, primarily focusing on Python. I am committed to continuous learning and growth in the field of software development.
+🚀 Backend developer with a passion for learning and improving.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=TriNitki&show_icons=true&count_private=true">
