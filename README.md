@@ -1,6 +1,6 @@
 # Hi, I'm Danil 👋
 
-🚀 Backend developer with a passion for learning and improving.
+🚀 A backend developer with a passion for learning and improving.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=TriNitki&show_icons=true&count_private=true">
