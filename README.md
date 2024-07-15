@@ -37,7 +37,7 @@
 
 ## Projects
 
-### Project 1: [delivery](https://github.com/TriNitki/delivery) [_WIP_]
+### Project 1: [delivery](https://github.com/TriNitki/delivery)
 
 - **Description:** Delivery is a backend for online store. In this project I am trying to implement an analog of Amazon, Yandex Market, etc.
 - **Role:** Backend Developer.
@@ -48,18 +48,6 @@
 - **Description:** Eng-bot is a Telegram bot that makes learning English easier. It allows you to take and create new tests, as well as add articles created with Telegraph.
 - **Role:** Developer.
 - **Technologies:** Python, pyTelegramBotAPI, PostgreSQL.
-
-### Project 3: [Buyout-Checker](https://github.com/TriNitki/Buyout-Checker)
-
-- **Description:** Buyout Checker is a web-app for finding the cheapest item for a full buyout from the Hypixel Skyblock bazzar. This feature is used to securely transfer in-game currency between accounts.
-- **Role:** Fullstack Developer.
-- **Technologies:** Python, Django, sqlite, javascript, html, css.
-
-### Project 4: [plankton](https://github.com/TriNitki/plankton)
-
-- **Description:** Plankton is a backend for the task scheduler. This project was created in the process of going through the [CFT](https://team.cft.ru/start/intensive) intensive.
-- **Role:** Backend Developer.
-- **Technologies:** Java, Spring Boot, Apache Cassandra, Gradle, Docker.
 
 You can check out other projects in my Github repositories. Here I tried to highlight interesting and different projects.
 
