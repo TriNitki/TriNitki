@@ -22,11 +22,11 @@
 ## My tech stack
 
 <p align='center'>
+   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"/>
    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1.svg?style=for-the-badge&logo=Apache-Cassandra&logoColor=white"/>
    <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"/> 
 </p>
 
@@ -37,13 +37,19 @@
 
 ## Projects
 
-### Project 1: [delivery](https://github.com/TriNitki/delivery)
+### Project 1: [delivery](https://github.com/TriNitki/Messenger)
+
+- **Description:** Messenger is a real-time chat application that is powered using websockets.
+- **Role:** Backend Developer.
+- **Technologies:** ASP.NET, EF core, PostgreSQL, Docker, Consul, Fabio.
+
+### Project 2: [delivery](https://github.com/TriNitki/delivery)
 
 - **Description:** Delivery is a backend for online store. In this project I am trying to implement an analog of Amazon, Yandex Market, etc.
 - **Role:** Backend Developer.
 - **Technologies:** Python, FastAPI, PyTest, Docker, SQLAlchemy, PostgreSQL, Redis, Elasticsearch.
 
-### Project 2: [eng-bot](https://github.com/TriNitki/eng_bot)
+### Project 3: [eng-bot](https://github.com/TriNitki/eng_bot)
 
 - **Description:** Eng-bot is a Telegram bot that makes learning English easier. It allows you to take and create new tests, as well as add articles created with Telegraph.
 - **Role:** Developer.
