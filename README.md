@@ -37,7 +37,7 @@
 
 ## Projects
 
-### Project 1: [delivery](https://github.com/TriNitki/Messenger)
+### Project 1: [Messenger](https://github.com/TriNitki/Messenger)
 
 - **Description:** Messenger is a real-time chat application that is powered using websockets.
 - **Role:** Backend Developer.
