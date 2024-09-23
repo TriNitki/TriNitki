@@ -39,7 +39,7 @@
 
 ### Project 1: [Messenger](https://github.com/TriNitki/Messenger)
 
-- **Description:** Messenger is a real-time chat application that is powered using websockets.
+- **Description:** Messenger is a real-time chat application based on web sockets.
 - **Role:** Backend Developer.
 - **Technologies:** ASP.NET, EF core, PostgreSQL, Docker, Consul, Fabio.
 
