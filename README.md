@@ -59,6 +59,6 @@ You can check out other projects in my Github repositories. Here I tried to high
 
 ## Contact
 
-📧 Feel free to reach out to me via email at [adk_work@outlook.com](mailto:danya.works.well@gmail.com).
+📧 Feel free to reach out to me via email at [danya.works.well@gmail.com](mailto:danya.works.well@gmail.com).
 
 🚀 Looking forward to new opportunities and collaborations in the world of software development!
