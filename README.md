@@ -2,23 +2,6 @@
 
 🚀 A backend developer with a passion for learning and improving.
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=TriNitki&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=TriNitki&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/TriNitki/github-readme-stats">
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriNitki&layout=compact"/>
-   </a>
-</p>
-
-<p align='center'>
-   <a href="https://t.me/TriniPy">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-</p>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:adk_work@outlook.com'>adk_work@outlook.com</a>
-</p>
-
 ## My tech stack
 
 <p align='center'>
